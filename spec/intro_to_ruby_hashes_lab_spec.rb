@@ -29,6 +29,9 @@ new_hash = {name: "Jamil". age: "35"}
 #         expect(pioneer).to be_a(Hash)
 #         expect(pioneer[:name]).to eq("Grace Hopper")
 #       end
+
+pioneer = {name: "grace Hopper"}
+
 #     end
 #
 #     describe "id_generator" do
